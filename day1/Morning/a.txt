@@ -1,0 +1,1 @@
+the function parameter shown in your screenshot is contents, but the task says to read a.txt and write to b.txt. You may want to use a callback parameter, such as cb, in the function signature to report success or errors.
